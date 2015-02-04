@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Hugo Blog Template for GitHub Pages</title>
+    <link>http://josephj.github.io/hugo_gh_blog/categories/development/</link>
+    <description>Recent content in Development on Hugo Blog Template for GitHub Pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Feb 2015 21:02:48 +1100</lastBuildDate>
+    <atom:link href="http://josephj.github.io/hugo_gh_blog/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>http://josephj.github.io/hugo_gh_blog/post/welcome/</link>
+      <pubDate>Wed, 04 Feb 2015 21:02:48 +1100</pubDate>
+      
+      <guid>http://josephj.github.io/hugo_gh_blog/post/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
