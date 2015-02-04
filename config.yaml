@@ -7,4 +7,5 @@ indexes:
 baseurl: "http://josephj.github.io/hugo_gh_blog"
 title: "Hugo Blog Template for GitHub Pages"
 canonifyurls: true
+theme: "hyde"
 ...
